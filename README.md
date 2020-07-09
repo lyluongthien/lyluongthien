@@ -6,7 +6,7 @@
 - 💬 Ask me about Programming & 🥋 Karate Do
 - 📫 How to reach me: feel free to text me on [Linkedin 💼](https://www.linkedin.com/in/lyluongthien)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I took a gap year to working as a Software Developer before my junior year at UIT 😄
+- ⚡ Fun fact: I took a gap year to work as a Software Developer before my junior year at UIT 😄
 
 <!--
 **lyluongthien/lyluongthien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
