@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Wellcome to my GitHub profile
+- 📃 I’m currently working on Software Engineering for Adaptive Softwares at [GKIM Digital](https://www.linkedin.com/company/gkimdigital)
+- 🌱 I’m currently learning Software Engineering at [UIT - Vietnam National University HCMC](https://en.uit.edu.vn)
+- 👯 I’m looking to collaborate on a project in my free time (mobile apps, web apps, server, etc,.)
+- 🤔 I’m looking for help with making new friends 😊
+- 💬 Ask me about Programming & 🥋 Karate Do
+- 📫 How to reach me: feel free to text me on [Linkedin 💼](https://www.linkedin.com/in/lyluongthien)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I took a gap year to working as a Software Developer before my junior year at UIT 😄
 
 <!--
 **lyluongthien/lyluongthien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
