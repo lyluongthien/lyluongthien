@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/lyluongthien/lyluongthien/master/my-shape.svg" alt="Banner that says Ly Luong Thien - software engineer, content creator and food alongside a cartoon illustration of Ly Luong Thien">
-
-### Hi there 👋 Wellcome to my GitHub profile
+### Hi there 👋 Wellcome to my GitHub
 - 📃 I’m currently working on Software Engineering for Adaptive Softwares
 - 🌱 I’m currently learning Software Engineering at [UIT - Vietnam National University HCMC](https://en.uit.edu.vn)
 - 👯 I’m looking to collaborate on a project in my free time (mobile apps, web apps, server, etc,.)
