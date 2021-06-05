@@ -1,9 +1,7 @@
 ### Hi there 👋 Wellcome to my GitHub
-- 📃 I’m currently working on Software Engineering for Adaptive Softwares 
-- 👯 I’m looking to collaborate on a project in my free time (mobile apps, web apps, server, etc,.)
-- 🤔 I’m looking for help with making new friends 😊
-- 💬 Ask me about Programming & 🥋 Karate Do
-- 📫 How to reach me: feel free to text me on [Linkedin 💼](https://www.linkedin.com/in/lyluongthien)
+- 📃 I’m currently working on Software Engineering at [TIKI Corporation](https://www.linkedin.com/company/tiki-vn) 
+- 💬 Ask me about engineering & 🥋 Karate Do
+- 📫 How to reach me: [Linkedin 💼](https://www.linkedin.com/in/lyluongthien)
 - 😄 Pronouns: he/him 
 
 <!--
@@ -19,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
