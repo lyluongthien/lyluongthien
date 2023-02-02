@@ -1,5 +1,5 @@
 ### Hi there 👋 Wellcome to my GitHub
-- 📃 I’m currently working on Software Engineering at [TI KI Co. Ltd.](https://www.linkedin.com/company/tiki-vn) 
+- 📃 I’m currently working on Software Engineering
 - 💬 Ask me about engineering & 🥋 Karate Do
 - 📫 How to reach me: [Linkedin 💼](https://www.linkedin.com/in/lyluongthien)
 - 😄 Pronouns: he/him 
