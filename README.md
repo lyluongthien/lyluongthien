@@ -17,7 +17,8 @@ and there are some facts about me:
   <a align="right" href="https://x.com/_thienly">
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F_thienly&style=plastic&logo=twitter&logoColor=%230096FF&label=Twitter%2FX&labelColor=white&color=black"/>
   </a>
-- 😄 Pronouns: he/him 
+- 😄 Pronouns: he/him
+
 Happy to _see_ you here 😉
 <!--
 **lyluongthien/lyluongthien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
