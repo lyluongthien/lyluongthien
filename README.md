@@ -1,9 +1,24 @@
-### Hi there 👋 Wellcome to my GitHub
-- 📃 I’m currently working on Software Engineering
-- 💬 Ask me about engineering & 🥋 Karate Do
-- 📫 How to reach me: [Linkedin 💼](https://www.linkedin.com/in/lyluongthien)
-- 😄 Pronouns: he/him 
 
+<h3 align="right">
+  <a align="right" href="https://github.com/lyluongthien">
+    <img src="https://img.shields.io/github/followers/lyluongthien?color=green&label=KAI%20|%20Thien%20Ly&logo=GitHub&style=for-the-badge"/>
+  </a>
+</h3> 
+
+### 👋 Wellcome to my GitHub
+Hi there, I am _Thien Ly_. You can call me **_KAI_** 
+and there are some facts about me:
+- 📃 I’m currently working on Software Engineering
+- 💬 Ask me about engineering & 🥋 Karate-Do
+- 📫 Reach me on:
+  <a align="right" href="https://www.linkedin.com/in/lyluongthien">
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flyluongthien%2F&style=plastic&logo=linkedin&logoColor=%230096FF&label=LinkedIn&labelColor=white&color=green"/>
+  </a>
+  <a align="right" href="https://x.com/_thienly">
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F_thienly&style=plastic&logo=twitter&logoColor=%230096FF&label=Twitter%2FX&labelColor=white&color=black"/>
+  </a>
+- 😄 Pronouns: he/him 
+Happy to _see_ you here 😉
 <!--
 **lyluongthien/lyluongthien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
