@@ -6,7 +6,7 @@
 </h3> 
 
 ### 👋 Wellcome to my GitHub
-Hi there, I am _Thien Ly_. You can call me **_KAI_** 
+Hi there, I am Kai,
 and there are some facts about me:
 - 📃 I’m currently working on Software Engineering & Architecture
 - 📝 I'm writing about technical stuff on [thediligentengineer.com](https://thediligentengineer.com)
