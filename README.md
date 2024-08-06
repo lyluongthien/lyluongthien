@@ -8,7 +8,7 @@
 ### 👋 Wellcome to my GitHub
 Hi there, I am Kai,
 and there are some facts about me:
-- 📃 I’m currently working on Software Engineering & Architecture
+- 📃 I’m currently working on Software Engineering, Architecture and LLMOps
 - 📝 I'm writing about technical stuff on [thediligentengineer.com](https://thediligentengineer.com)
 - 👨🏻‍🍼 I'm taking care of my daughter, her IG is <a align="right" href="https://instagram.com/gauxinhtuoicuaba">
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fin%2Flyluongthien%2F&style=social&logo=instagram&logoColor=pink&label=@gauxinhtuoicuaba&labelColor=white&color=pink"/>
