@@ -19,7 +19,7 @@ and there are some facts about me:
   <a align="right" href="https://www.linkedin.com/in/lyluongthien">
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flyluongthien%2F&style=plastic&logo=linkedin&logoColor=%230096FF&label=LinkedIn&labelColor=white&color=green"/>
   </a>
-  <a align="right" href="https://x.com/_thienly">
+  <a align="right" href="https://x.com/kaithienly">
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F_thienly&style=plastic&logo=twitter&logoColor=%230096FF&label=Twitter%2FX&labelColor=white&color=black"/>
   </a>
 - 🤵🏻‍♂️ Pronouns: he/they
