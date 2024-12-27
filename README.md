@@ -13,7 +13,7 @@
  _(If you want a more complicated pronunciation, I’m Lý Lưỡng Thiên ;) )_
 
 #### and there are some facts about me:
-- 🧑🏻‍💻 As an engineer, I started my career at my 20 - 2019. Digging in T shape with 
+- 🧑🏻‍💻 As an engineer, I started my career in my 20 - 2019. Digging in T shape with 
   - Horizontal line: frontend & μFE, mobile, desktop, ide, compiler,...
   - Vertical line: Backend, μservices, and scaling systems
 - 📝 As a writer, I’ve written a lot (of course 😆) on the engineering side: [thediligentengineer.com](https://thediligentengineer.com)
@@ -21,8 +21,7 @@
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fin%2Flyluongthien%2F&style=social&logo=instagram&logoColor=pink&label=@gauxinhtuoicuaba&labelColor=white&color=pink"/>
   </a>
 - 🥋 As a Karate-Ka, I’m striving to achieve my black belt next year after 10 years of practising Nghiadung Karate-Do (義勇空手道) (since 2014).
-- 👨🏼‍🍳 As a cook 😉, I’m cooking at Momos and my apartment. My best dish is _Thịt bằm xào anh - “Minced meat stir-fried with me”_ (Tonkin jasmine flowers - a homophone of Thiên Lý (me)  in Vietnamese 😉)
-
+- 👨🏼‍🍳 As a cook 😉, I’m cooking at <a align="right" href="https://momos.com/"><img src="https://img.shields.io/badge/momos-red"/></a> and my apartment. My best dish is _Thịt bằm xào anh - “Minced meat stir-fried with me”_ (Tonkin jasmine flowers - a homophone of Thiên Lý (me)  in Vietnamese 😉)
 - 💬 Ask me about engineering & 🥋 Karate-Do
 - 📫 Reach me on:
   <a align="right" href="https://www.linkedin.com/in/lyluongthien">
