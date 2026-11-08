@@ -7,6 +7,12 @@
 
 ### 👋 Wellcome to my GitHub
 
+
+<h3 align="center">
+  <a align="center" href="https://thediligentengineer.com">
+    <img src="https://thediligentengineer.com/images/hero.svg"/>
+  </a>
+</h3> 
 #### Hi there, I’m Kai 
  
  
