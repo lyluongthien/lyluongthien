@@ -13,6 +13,7 @@
     <img src="https://thediligentengineer.com/images/hero.svg"/>
   </a>
 </h3> 
+
 #### Hi there, I’m Kai 
  
  
